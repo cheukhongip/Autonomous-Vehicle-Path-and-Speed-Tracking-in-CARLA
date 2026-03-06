@@ -31,4 +31,7 @@ The speed tracking result showed that the vehicle was able to follow the referen
 
 ## Demo Video
 
-[Watch the CARLA demo video](./CarlaUE4_Project_Demo_2026-03-05%2018-29-23_small.mp4)
+https://github.com/user-attachments/assets/e4a66b92-b857-4f8d-80b9-f4be437227f0
+
+
+
