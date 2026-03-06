@@ -31,7 +31,8 @@ The speed tracking result showed that the vehicle was able to follow the referen
 
 ## Demo Video
 
-https://github.com/user-attachments/assets/e4a66b92-b857-4f8d-80b9-f4be437227f0
+
+https://github.com/user-attachments/assets/d1f5d7ac-3109-49ea-ba15-0cda68b46f44
 
 
 
