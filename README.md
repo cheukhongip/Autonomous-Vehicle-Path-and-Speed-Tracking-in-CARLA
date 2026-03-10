@@ -17,7 +17,7 @@ The controller was developed and tuned in Python using the provided course frame
 
 For longitudinal control, I tuned a PID controller to provide stable and accurate speed tracking.
 
-For lateral control, I implemented a waypoint-based steering controller to keep the vehicle aligned with the reference path and follow the racetrack smoothly.
+For lateral control, I implemented a waypoint-based steering controller(Pure Pursiut) to keep the vehicle aligned with the reference path and follow the racetrack smoothly.
 
 ## Results
 
